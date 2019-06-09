@@ -1,0 +1,23 @@
+ote: I wrote most of the words in this post, but the legendary Dave Holtz did the heavy lifting on the data side. See more of his work on his blog.
+If you’re reading this post, there’s a decent chance that you’re about to re-enter the crazy and scary world of technical interviewing.
+Maybe you’re a college student or fresh grad who is going through the interviewing process for the first time. Maybe you’re an experienced software engineer who hasn’t even thought about interviews for a few years.
+Either way, the first step in the interviewing process is usually to read a bunch of online interview guides (especially if they’re written by companies you’re interested in)
+ and to chat with friends about their experiences with the interviewing process (both as an interviewer and interviewee).
+More likely than not, what you read and learn in this first, “exploratory” phase of the interview process will inform how you choose to prepare moving forward.
+There are a few issues with this typical approach to interview preparation:
+Most interview guides are written from the perspective of one company. While Company A may really value efficient code, Company B may place more of an emphasis on high-level problem-solving skills. Unless your heart is set on Company A, you probably don’t want to give too much weight to what they value.
+People lie sometimes, even if they don’t mean to. In writing, companies may say they’re language agnostic, or that it’s worthwhile to explain your thought process, even if the answer isn’t quite right. However, it’s not clear if this is actually how they act! We’re not saying that tech companies are nefarious
+liars who are trying to mislead their applicant pool. We’re just saying that sometimes implicit biases sneak in and people aren’t even aware of them.
+A lot of the “folk knowledge” that you hear from friends and acquaintances may not be based in fact at all. A lot of people assume that short interviews spell doom. Similarly, everyone can recall
+one long interview after which they’ve thought to themselves, “I really hit it off with that interviewer, I’ll definitely get passed onto the next stage.” In the past, we’ve seen that people are really bad at gauging how they did in interviews. This time, we wanted to
+look directly at indicators like interview length and see if those actually matter.
+At my company, interviewing.io, we’re uniquely positioned to approach technical interviews and their outcomes in a data-driven way. We have a platform where people can practice technical interviewing anonymously. And if things go well, they can unlock
+the ability to interview anonymously, whenever they’d like, with top companies like Uber, Lyft, and Twitch.
+The cool thing is that both practice interviews and real interviews with companies take place within the interviewing.io ecosystem. As a result, we’re able to collect quite a bit of interview data and analyze it to better understand technical interviews,
+the signal they carry, what works and what doesn’t, and which aspects of an interview might actually matter for the outcome.
+Each interview, whether it’s practice or real, starts with the interviewer and interviewee meeting in a collaborative coding environment with voice, text chat, and a whiteboard, at which point they jump right into a technical question.
+Interview questions tend to fall into the category of what you’d encounter in a phone screen for a back-end software engineering role.
+During these interviews, we collect everything that happens, including audio transcripts, data and metadata describing the code that the interviewee wrote and tried to run,
+ and detailed feedback from both the interviewer and interviewee about how they think the interview went and what they thought of each other.
+If you’re curious, you can see what the feedback forms for interviewers and interviewees look like below — in addition to one direct yes/no question, we also ask about a few different aspects of interview performance using a 1–4 scale.
+Wealso ask interviewees some extra questions that we don’t share with their interviewers, and one of the things we ask is whether an interviewee has previously seen the question they just worked on leeeroy.

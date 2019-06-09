@@ -1,0 +1,6 @@
+﻿  Relevant.cpp
+z:\users\sergey\desktop\гдик\ргз2\cal\cal\relevant.cpp(57): warning C4101: count: неиспользованная локальная переменная
+z:\users\sergey\desktop\гдик\ргз2\cal\cal\relevant.cpp(444): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+z:\users\sergey\desktop\гдик\ргз2\cal\cal\relevant.cpp(451): error C2001: newline в константе
+z:\users\sergey\desktop\гдик\ргз2\cal\cal\relevant.cpp(452): error C2143: синтаксическая ошибка: отсутствие ";" перед "for"
+z:\users\sergey\desktop\гдик\ргз2\cal\cal\relevant.cpp(506): warning C4018: <: несоответствие типов со знаком и без знака
